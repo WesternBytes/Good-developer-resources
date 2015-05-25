@@ -1,5 +1,7 @@
 # Good-developer-resources
-<br>Just a space to store resources and tools I may need for development so I don't forget them
+Just a space to store resources and tools I may need for development so I don't forget them
+
+
 ====================================================================================================
 
 Design: 
