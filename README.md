@@ -1,11 +1,13 @@
 # Good-developer-resources
-Just a space to place resources I may need for development so I don't forget them
+Just a space to store resources and tools I may need for development so I don't forget them
 ====================================================================================================
 
 Design: 
 <br> www.balsamiq.com
 <br> http://www.invisionapp.com/
 <br> www.getbootstrap.com
+<br> www.codepen.io
+<br> http://materializecss.com/
 
 News:
 <br> www.producthunt.com
@@ -25,7 +27,7 @@ Issues/Collaboration Apps:
 <br> https://confluence.atlassian.com
 
 Hosting:
-<br> heroku.com
+<br> www.heroku.com
 
 Blogging:
-<br> medium.com
+<br> www.medium.com
