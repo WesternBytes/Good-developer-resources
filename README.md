@@ -10,6 +10,12 @@ Design:
 <br> www.getbootstrap.com
 <br> www.codepen.io
 <br> http://materializecss.com/
+<br> www.geticonjar.com
+<br> www.atomic.io
+
+Stock Pics:
+<br> www.pexels.com
+<br> www.unsplash.com
 
 News:
 <br> www.producthunt.com
