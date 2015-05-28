@@ -4,6 +4,10 @@ Just a space to store resources and tools I may need for development so I don't 
 
 ====================================================================================================
 
+Searching for help:
+<br> www.recalll.co
+<br> www.stackoverflow.com
+
 Design: 
 <br> www.balsamiq.com
 <br> http://www.invisionapp.com/
