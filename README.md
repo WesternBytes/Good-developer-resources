@@ -4,9 +4,20 @@ Just a space to store resources and tools I may need for development so I don't 
 
 ====================================================================================================
 
+Tutorials:
+<br> www.curious.com
+<br> www.coursera.com
+<br> www.edx.org
+<br> www.udacity.com
+<br> www.serversforhackers.com
+<br> http://restcookbook.com/
+<br> www.freecodecamp.com
+
 Searching for help:
 <br> www.recalll.co
 <br> www.stackoverflow.com
+<br> www.quora.com
+<br> 
 
 Design: 
 <br> www.balsamiq.com
@@ -16,6 +27,7 @@ Design:
 <br> http://materializecss.com/
 <br> www.geticonjar.com
 <br> www.atomic.io
+<br> www.html5up.net
 
 Stock Pics:
 <br> www.pexels.com
