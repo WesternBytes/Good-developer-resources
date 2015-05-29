@@ -3,6 +3,10 @@ Just a space to store resources and tools I may need for development so I don't 
 
 
 ====================================================================================================
+Books:
+<br> http://hackershelf.com/browse/
+<br> http://it-ebooks.info/
+
 
 Tutorials:
 <br> www.curious.com
