@@ -5,7 +5,7 @@ Just a space to store resources and tools I may need for development so I don't 
 ====================================================================================================
 Jobs:
 <br> https://startupdeveloperjobs.com/
-<br> 
+<br> http://hnhiring.me/
 
 Books:
 <br> http://hackershelf.com/browse/
