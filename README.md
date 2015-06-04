@@ -53,6 +53,7 @@ Cloud Development Environment:
 
 Team chat:
 <br> www.slack.com
+<br> www.hipchat.com
 
 Video Conferencing:
 <br> http://appear.in
