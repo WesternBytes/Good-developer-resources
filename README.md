@@ -16,7 +16,7 @@ Prototyping/Mockups:
 <br> www.balsamiq.com
 <br> http://www.invisionapp.com/
 
-Tutorials:
+Tutorials/Learning:
 <br> www.curious.com
 <br> www.coursera.com
 <br> www.edx.org
@@ -24,6 +24,7 @@ Tutorials:
 <br> www.serversforhackers.com
 <br> http://restcookbook.com/
 <br> www.freecodecamp.com
+<br> https://courses.platzi.com/
 
 Searching for help:
 <br> www.recalll.co
