@@ -11,6 +11,10 @@ Books:
 <br> http://hackershelf.com/browse/
 <br> http://it-ebooks.info/
 
+Prototyping/Mockups:
+<br>https://precursorapp.com/
+<br> www.balsamiq.com
+<br> http://www.invisionapp.com/
 
 Tutorials:
 <br> www.curious.com
@@ -28,8 +32,6 @@ Searching for help:
 <br> www.careerdean.com
 
 Design: 
-<br> www.balsamiq.com
-<br> http://www.invisionapp.com/
 <br> www.getbootstrap.com
 <br> www.codepen.io
 <br> http://materializecss.com/
