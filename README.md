@@ -57,7 +57,7 @@ Video Conferencing:
 <br> http://appear.in
 
 Issues/Collaboration Apps:
-<br> waffle.io
+<br> http://www.waffle.io
 <br> https://confluence.atlassian.com
 
 Hosting:
