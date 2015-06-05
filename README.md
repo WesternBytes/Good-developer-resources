@@ -69,6 +69,9 @@ Sharing code:
 <br> www.codeshare.io
 <br>
 
+Startup stuff:
+<br> http://autopsy.io
+
 Hosting:
 <br> www.heroku.com
 
