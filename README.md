@@ -40,6 +40,7 @@ Design:
 <br> www.geticonjar.com
 <br> www.atomic.io
 <br> www.html5up.net
+<br> https://www.coleure.com/
 
 Stock Pics:
 <br> www.pexels.com
