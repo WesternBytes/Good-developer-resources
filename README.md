@@ -41,6 +41,7 @@ Design:
 <br> www.atomic.io
 <br> www.html5up.net
 <br> https://www.coleure.com/
+<br> http://www.swiftbootstrap.com/
 
 Stock Pics:
 <br> www.pexels.com
