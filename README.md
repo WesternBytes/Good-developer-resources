@@ -25,6 +25,7 @@ Tutorials/Learning:
 <br> http://restcookbook.com/
 <br> www.freecodecamp.com
 <br> https://courses.platzi.com/
+<br> www.thetutorialblog.com
 
 Searching for help:
 <br> www.recalll.co
