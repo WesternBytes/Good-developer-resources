@@ -29,6 +29,7 @@ Tutorials/Learning:
 <br> www.scotch.io/tutorials
 <br> www.toptal.com/blog
 <br> http://www.vogella.com/tutorials/
+<br> https://www.bignerdranch.com/blog/
 
 Searching for help:
 <br> www.recalll.co
