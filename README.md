@@ -27,6 +27,7 @@ Tutorials/Learning:
 <br> https://courses.platzi.com/
 <br> www.thetutorialblog.com
 <br> www.scotch.io/tutorials
+<br> www.toptal.com/blog
 
 Searching for help:
 <br> www.recalll.co
