@@ -26,6 +26,7 @@ Tutorials/Learning:
 <br> www.freecodecamp.com
 <br> https://courses.platzi.com/
 <br> www.thetutorialblog.com
+<br> www.scotch.io/tutorials
 
 Searching for help:
 <br> www.recalll.co
