@@ -26,8 +26,11 @@ Tutorials/Learning:
 <br> www.freecodecamp.com
 <br> https://courses.platzi.com/
 <br> www.thetutorialblog.com
-<br> www.scotch.io/tutorials
-<br> www.toptal.com/blog
+<br> www.hackr.io
+<br> https://scotch.io/tutorials
+<br> http://www.toptal.com/blog
+<br> https://egghead.io/
+<br> http://apprentice.craic.com/tutorials
 <br> http://www.vogella.com/tutorials/
 <br> https://www.bignerdranch.com/blog/
 <br> http://www.codeproject.com/
