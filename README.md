@@ -30,6 +30,7 @@ Tutorials/Learning:
 <br> www.toptal.com/blog
 <br> http://www.vogella.com/tutorials/
 <br> https://www.bignerdranch.com/blog/
+<br> http://www.codeproject.com/
 
 Searching for help:
 <br> www.recalll.co
