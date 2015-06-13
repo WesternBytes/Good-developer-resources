@@ -47,6 +47,7 @@ Stock Videos:
 
 Website Analytics:
 <br> www.decibelinsight.com
+<br> http://khan.github.io/tota11y/?ref=hn
 
 Design: 
 <br> www.getbootstrap.com
