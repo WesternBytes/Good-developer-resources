@@ -42,6 +42,12 @@ Searching for help:
 <br> www.quora.com
 <br> www.careerdean.com
 
+Stock Videos:
+<br>http://www.videvo.net
+
+Website Analytics:
+<br> www.decibelinsight.com
+
 Design: 
 <br> www.getbootstrap.com
 <br> www.codepen.io
