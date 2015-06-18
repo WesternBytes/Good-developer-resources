@@ -35,6 +35,7 @@ Tutorials/Learning:
 <br> https://www.bignerdranch.com/blog/
 <br> http://www.codeproject.com/
 <br>http://littletutorials.com/
+<br> https://www.linode.com/docs/
 
 Searching for help:
 <br> www.recalll.co
