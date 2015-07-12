@@ -10,6 +10,7 @@ Jobs:
 Books:
 <br> http://hackershelf.com/browse/
 <br> http://it-ebooks.info/
+<br> http://conceptf1.blogspot.ca/2013/11/list-of-freely-available-programming.html
 
 Prototyping/Mockups:
 <br>https://precursorapp.com/
