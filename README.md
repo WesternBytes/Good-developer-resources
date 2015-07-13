@@ -3,9 +3,15 @@ Just a space to store resources and tools I may need for development so I don't 
 
 
 ====================================================================================================
+Career Advice:
+<br> https://medium.com/@dotbits/the-1-career-advice-that-s-actually-useful-dc12dade830b
+
 Jobs:
 <br> https://startupdeveloperjobs.com/
 <br> http://hnhiring.me/
+<br> https://weworkremotely.com/
+<br> https://remoteok.io/
+<br> http://www.workingnomads.co/jobs
 
 Books:
 <br> http://hackershelf.com/browse/
