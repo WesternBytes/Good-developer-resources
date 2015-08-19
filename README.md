@@ -13,6 +13,9 @@ Jobs:
 <br> https://remoteok.io/
 <br> http://www.workingnomads.co/jobs
 
+Security:
+<br>https://github.com/paragonie/awesome-appsec
+
 Books:
 <br> http://hackershelf.com/browse/
 <br> http://it-ebooks.info/
